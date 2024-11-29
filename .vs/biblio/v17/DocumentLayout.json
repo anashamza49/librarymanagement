@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anass\\source\\repos\\biblio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\services\\livreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\services\\livreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\interfaces\\ilivreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\interfaces\\ilivreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\interfaces\\icategorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\interfaces\\icategorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|c:\\users\\anass\\source\\repos\\biblio\\biblio\\controllers\\livrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0C5CF9-99D9-44B4-A75B-971D613A3C86}|biblio\\biblio.csproj|solutionrelative:biblio\\controllers\\livrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILivreService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Interfaces\\ILivreService.cs",
+              "RelativeDocumentMoniker": "biblio\\Interfaces\\ILivreService.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Interfaces\\ILivreService.cs",
+              "RelativeToolTip": "biblio\\Interfaces\\ILivreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:17:09.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "biblio\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "biblio\\Profiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:02:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Program.cs",
+              "RelativeDocumentMoniker": "biblio\\Program.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Program.cs",
+              "RelativeToolTip": "biblio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:02:42.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategorieService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Interfaces\\ICategorieService.cs",
+              "RelativeDocumentMoniker": "biblio\\Interfaces\\ICategorieService.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Interfaces\\ICategorieService.cs",
+              "RelativeToolTip": "biblio\\Interfaces\\ICategorieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:35:52.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategorieService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Services\\CategorieService.cs",
+              "RelativeDocumentMoniker": "biblio\\Services\\CategorieService.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Services\\CategorieService.cs",
+              "RelativeToolTip": "biblio\\Services\\CategorieService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:32:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivreService.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Services\\LivreService.cs",
+              "RelativeDocumentMoniker": "biblio\\Services\\LivreService.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Services\\LivreService.cs",
+              "RelativeToolTip": "biblio\\Services\\LivreService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:48:51.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategorieController.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Controllers\\CategorieController.cs",
+              "RelativeDocumentMoniker": "biblio\\Controllers\\CategorieController.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Controllers\\CategorieController.cs",
+              "RelativeToolTip": "biblio\\Controllers\\CategorieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:32:21.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivreController.cs",
+              "DocumentMoniker": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Controllers\\LivreController.cs",
+              "RelativeDocumentMoniker": "biblio\\Controllers\\LivreController.cs",
+              "ToolTip": "C:\\Users\\anass\\source\\repos\\biblio\\biblio\\Controllers\\LivreController.cs",
+              "RelativeToolTip": "biblio\\Controllers\\LivreController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:46:53.454Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 36,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
